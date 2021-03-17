@@ -35,4 +35,4 @@ client.on('ready',()=>{
 
 });
 
-client.login("ODIxNzQzMjEzNzY0NDExNDgy.YFIKAQ.LiXEi7PXkZNQl-nDGXS4STA0iyw");
+client.login("process.env.token");
